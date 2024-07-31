@@ -1,0 +1,4 @@
+venv/
+*.pyc
+__pycache__/
+ocr-project-431019-8a3333995805.json
