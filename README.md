@@ -12,5 +12,5 @@ This is a Python application that uses Google Cloud Vision API to perform OCR on
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/ocr-application.git
+   git clone https://github.com/poornatejav/ocr-application.git
    cd ocr-application
